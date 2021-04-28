@@ -1,16 +1,15 @@
 # Bookmarks
 
-> React
+> ## React
 
 - [React – 用于构建用户界面的 JavaScript 库](https://zh-hans.reactjs.org/)
 - [Getting Started · Create React App](https://create-react-app.dev/docs/getting-started)
 - [React Router: Declarative Routing for React.js](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Redux - A predictable state container for JavaScript apps.](https://redux.js.org/)
 - [Redux 中文文档](http://cn.redux.js.org/)
-- [Next.js by Vercel - The React Framework](https://nextjs.org/)
 - [Dashboard – Vercel](https://vercel.com/dashboard)
 
-> React with Typescript
+> ## React with Typescript
 
 - [Adding TypeScript](https://create-react-app.dev/docs/adding-typescript/)
 - [react-typescript-cheatsheet/README.md at master · typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/blob/master/README.md#basic-cheatsheet-table-of-contents)
@@ -20,14 +19,14 @@
 - [React with TypeScript: Best Practices — SitePoint](https://www.sitepoint.com/react-with-typescript-best-practices/)
 - [React TypeScript: Basics and Best Practices - Bits and Pieces](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 
-> react-i18next
+> ## react-i18next
 
 - [i18next/react-i18next: Internationalization for react done right. Using the i18next i18n ecosystem.](https://github.com/i18next/react-i18next)
 - [Introduction - i18next documentation](https://www.i18next.com/)
 - [i18next/i18next-xhr-backend: backend layer for i18next using browsers xhr](https://github.com/i18next/i18next-xhr-backend)
 - [i18next/i18next-multiload-backend-adapter: This is a i18next backend to enable another backend'smultiload behaviour of loading multiple lng-ns combinations with one request.](https://github.com/i18next/i18next-multiload-backend-adapter)
 
-> Ant Design
+> ## Ant Design
 
 - [Ant Design of React - Ant Design](https://ant.design/components/button-cn/)
 - [Ant Design 国内镜像](https://ant-design.gitee.io/components/overview-cn/)
@@ -41,3 +40,14 @@
 - [登录拦截不生效，先进入主页（currentUser触发了），再重定向回登录页 · Issue #4092 · ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro/issues/4092)
 - [dumi - 基于 Umi、为组件开发场景而生的文档工具](https://d.umijs.org/)
 - [qiankun](https://qiankun.umijs.org/zh)
+
+> ## NextJs
+
+- [Next.js by Vercel - The React Framework](https://nextjs.org/)
+- [SWR](https://swr.vercel.app/)
+
+> ## Jest
+
+- [Getting Started · Jest](https://jestjs.io/docs/zh-Hans/getting-started.html)
+- [Running Tests](https://create-react-app.dev/docs/running-tests)
+- [测试技巧 – React](https://zh-hans.reactjs.org/docs/testing-recipes.html)

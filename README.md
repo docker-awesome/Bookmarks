@@ -1,1 +1,1 @@
-> # Bookmarks [Wiki](https://github.com/docker-awesome/Bookmarks/wiki)
+> # [Bookmarks Wiki](https://github.com/docker-awesome/Bookmarks/wiki)
